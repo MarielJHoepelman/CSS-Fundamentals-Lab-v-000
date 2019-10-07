@@ -8,8 +8,10 @@ h1 {
   text-align: center;
 }
 
-nav a.upperlinks {
+nav {
   text-align: center;
+}
+nav a.upperlinks {
   background: gray;
   padding-left: 10px;
   padding-right: 10px;
