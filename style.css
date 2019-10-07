@@ -32,3 +32,7 @@ figcaption {
 p {
   text-align: center;
 }
+
+section.details {
+  background: red;
+}
