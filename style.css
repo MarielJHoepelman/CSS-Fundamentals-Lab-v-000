@@ -23,3 +23,8 @@ nav a.upperlinks {
   margin-right: auto;
   width: 50%;
 }
+
+figcaption {
+  font-size: 10px;
+  text-align: center;
+}
