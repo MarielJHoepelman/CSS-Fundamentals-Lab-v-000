@@ -40,4 +40,5 @@ section#details {
 section#details div.footer-element {
   width: 25%;
   display: inline-block;
+  text-align: center;
 }
