@@ -33,6 +33,6 @@ p {
   text-align: center;
 }
 
-section {
+section#details {
   background-color: #ff0000;
 }
