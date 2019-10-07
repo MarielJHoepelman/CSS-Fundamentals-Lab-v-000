@@ -37,6 +37,7 @@ section#details {
   background-color: #ff0000;
 }
 
-section#details p.footer-element {
+section#details div.footer-element {
   width: 25%;
+   display: inline-block;
 }
