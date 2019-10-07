@@ -35,6 +35,8 @@ p {
 
 section#details {
   background-color: #ff0000;
+  width: 100%;
+  float: left;
 }
 
 section#details div.footer-element {
